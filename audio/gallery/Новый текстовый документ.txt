@@ -1,0 +1,6 @@
+<audio controls autoplay loop>
+		<source src="audio/gallery/Konfuz - Кайф ты поймала.mp3" type="audio/ogg">
+		<source src="audio/gallery/HammAli & Navai - Девочка танцуй.mp3" type="audio/ogg">
+		<source src="audio/gallery/GOODY - Panamera.mp3" type="audio/ogg">
+		<source src="audio/gallery/ALEKS ATAMAN, FINIK - Диалоги тет-а-тет.mp3" type="audio/ogg">
+	</audio>
